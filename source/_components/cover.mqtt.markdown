@@ -38,7 +38,6 @@ cover:
     state_open: "STATE_OPEN"
     state_closed: "STATE_CLOSED"
     optimistic: false
-    retain: false
     value_template: '{% raw %}{{ value.x }}{% endraw %}'
 ```
 
